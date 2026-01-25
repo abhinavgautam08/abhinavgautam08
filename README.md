@@ -1,7 +1,7 @@
 <!-- Profile Section with Typing Text (No Table, No Background) -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 10px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=600&lines=Hey%2C+I'm+Abhinav+Adarsh+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%9A%80;Building+Innovative+Solutions;Let's+Code+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
-  <img align="right" height="100" src="https://media.tenor.com/UNMXpkrWGXQAAAAi/vegeta-vegeta-dance.gif"  />
+  <img src="https://media.tenor.com/UNMXpkrWGXQAAAAi/vegeta-vegeta-dance.gif" width="130" />
 </div>
 <br/>
 <!-- Animated Social Badges -->
