@@ -100,9 +100,14 @@ console.log("Welcome to my world of endless possibilities!");
 </div>
 
 <!-- GitHub Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
+<img src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/snake.svg" alt="Snake animation" />
+
+<!-- Github Contribution Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -180,21 +185,3 @@ Thanks for checking out my profile!
 If you're reading this, you're probably a fellow developer who appreciates good code.
 Let's connect and build something amazing together!
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
