@@ -58,6 +58,9 @@ const abhinavgautam08 = {
 
 console.log("Welcome to my world of endless possibilities!");
 ```
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 **Fun fact:** "I love exploring new tech trends!"
 
@@ -101,13 +104,6 @@ console.log("Welcome to my world of endless possibilities!");
 
 <!-- GitHub Contribution Snake -->
 <img src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/snake.svg" alt="Snake animation" />
-
-<!-- Github Contribution Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
-</picture>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
