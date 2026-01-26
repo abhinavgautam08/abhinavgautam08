@@ -106,7 +106,7 @@ console.log("Welcome to my world of endless possibilities!");
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
+  <img alt="pacman" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
 </picture>
 
 <!-- Animated Separator -->
@@ -184,4 +184,5 @@ console.log("Welcome to my world of endless possibilities!");
 Thanks for checking out my profile! 
 If you're reading this, you're probably a fellow developer who appreciates good code.
 Let's connect and build something amazing together!
+
 -->
