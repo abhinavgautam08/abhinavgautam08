@@ -89,7 +89,7 @@ No activity tracked
 
 ### Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,fastapi,postgresql,mysql,mongodb,googlecloud&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgresql,mysql,mongodb,googlecloud&theme=dark" />
 </div>
 
 ### DevOps & Tools 
