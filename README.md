@@ -61,12 +61,12 @@ console.log("Welcome to my world of endless possibilities!");
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-HTML         11 hrs 27 mins        █████████░░░░░░░░░░░░░░░░   36.11 %
-JavaScript   11 hrs 26 mins        █████████░░░░░░░░░░░░░░░░   36.02 %
-Markdown     6 hrs 8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Other        55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript   11 hrs 44 mins        ██████████▒░░░░░░░░░░░░░░   41.98 %
+HTML         9 hrs 50 mins         ████████▓░░░░░░░░░░░░░░░░   35.19 %
+Markdown     4 hrs 22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Other        52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
