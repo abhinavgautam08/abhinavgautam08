@@ -1,39 +1,47 @@
-<!-- Profile Section with Typing Text (No Table, No Background) -->
+<!-- Modern Dark Redesign Header -->
+<p align="center">
+  <img src="./assets/hero.svg" alt="Abhinav Adarsh — clean code, real products." width="100%" />
+</p>
+
+<!-- Profile Typing SVG Sub-header -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 10px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=600&lines=Hey%2C+I'm+Abhinav+Adarsh+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%9A%80;Building+Innovative+Solutions;Let's+Code+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
-  <img src="https://media.tenor.com/UNMXpkrWGXQAAAAi/vegeta-vegeta-dance.gif" width="130" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhinav+Adarsh+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%9A%80;Building+Innovative+Solutions;Let's+Code+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+
 <br/>
-<!-- Animated Social Badges -->
+
+<!-- Sleek Social Link Cards -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinavgautam08" target="_blank"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Abhinav Adarsh" /></a>&nbsp;
+  <a href="https://x.com/abhinavgautam08" target="_blank"><img src="./assets/link-x.svg" width="31.5%" alt="X — @abhinavgautam08" /></a>&nbsp;
+  <a href="https://g.dev/abhinavgautam08" target="_blank"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Google Dev — g.dev/abhinavgautam08" /></a>
+</p>
+
+<!-- Additional Social & Identity Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhinavgautam08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="https://x.com/abhinavgautam08" target="_blank">  
-  <img src="https://img.shields.io/badge/Connect-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black" />
-</a>
   <a href="https://www.instagram.com/abhinavgautam08" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
   <a href="https://community.aws/@abhinavgautam08" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
- </a>
-<a href="https://g.dev/abhinavgautam08" target="_blank">
-  <img src="https://img.shields.io/badge/Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/AWS-Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://g.dev/abhinavgautam08" target="_blank">
+    <img src="https://img.shields.io/badge/Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=Profile%20Views&color=0FFFFF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/abhinavgautam08.png"/>
-</div>
+<!-- Now Status Card -->
+<p align="center">
+  <img src="./assets/now.svg" width="100%" alt="Now: building full stack projects, contributing to open source, and finishing my degree" />
+</p>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## About Me
+## 👨‍💻 About Me
 
 <div align="center">
   <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
@@ -45,7 +53,7 @@ const abhinavgautam08 = {
     location: "India 🇮🇳",
     role: "Full Stack Engineer",
     passions: ["Clean Code", "Innovation", "Problem Solving"],
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Building scalable web applications & open source",
     lifePhilosophy: "Code with purpose, learn with passion",
     superpower: "Turning coffee into code ☕ → 💻",
     status: "Always ready for the next challenge! 🎯",
@@ -53,13 +61,21 @@ const abhinavgautam08 = {
     // 🔗 Global Dev Identity
     handle: "abhinavgautam08",
     everywhere: ["GitHub", "Twitter", "LinkedIn", "Medium", "Discord", "Google Dev", "AWS Community"],
-    verified: true, // This is ME — my official dev alias across the web 🌍
+    verified: true, // Official dev alias across the web 🌍
 };
 
 console.log("Welcome to my world of endless possibilities!");
 ```
-<!--START_SECTION:waka-->
 
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/abhinavgautam08.png" alt="TryHackMe Badge"/>
+</div>
+
+<br clear="right"/>
+
+### 📊 Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
 ```txt
 From: 21 July 2026 - To: 28 July 2026
 
@@ -68,22 +84,26 @@ JavaScript   4 hrs 21 mins         ████████░░░░░░░
 Markdown     3 hrs 7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
 Other        32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
-
 <!--END_SECTION:waka-->
 
 **Fun fact:** "I love exploring new tech trends!"
 
-<br clear="right"/>
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ My Arsenal of Technologies
+## 🛠️ Working Set & Technology Arsenal
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
+<p align="center">
+  <img src="./assets/typescript.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/react.svg" width="38" height="38" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/nodedotjs.svg" width="38" height="38" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/python.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/postgresql.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/git.svg" width="38" height="38" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/github.svg" width="38" height="38" alt="GitHub" title="GitHub" />
+</p>
+
+<br/>
 
 ### Frontend
 <div align="center">
@@ -101,8 +121,13 @@ Other        32 mins               █░░░░░░░░░░░░░░
 </div>
 
 <!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Analytics Dashboard
+## 📈 Analytics & Activity Dashboard
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" width="100%" />
+</p>
 
 ![LeetCode Stats](https://leetcode-stats-fast.vercel.app/?username=abhinavgautam08&site=us&theme=transparent&ext=heatmap&width=1200)
 
@@ -111,18 +136,24 @@ Other        32 mins               █░░░░░░░░░░░░░░
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavgautam08&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
+<br/>
+
+### 🐍 Contribution Animations
+
 <!-- GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/snake.svg" alt="Snake animation" width="100%" />
+
+<br/>
 
 <!-- Github Contribution Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
-  <img alt="pacman" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
+  <img alt="pacman" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 What I'm Currently Crafting
 
@@ -155,14 +186,22 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 ## 🏆 Achievements & Milestones
 
-<!--leetcode badge -->
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=abhinavgautam08&theme=transparent&border=no-border&animated=true)
+<!-- LeetCode Badges -->
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhinavgautam08&theme=transparent&border=no-border&animated=true" alt="LeetCode Badges" />
+</div>
 
-<!--holopin Badge -->
-[![An image of @abhinavgautam08's Holopin badges](https://holopin.me/abhinavgautam08)](https://holopin.io/@abhinavgautam08)
+<br/>
+
+<!-- Holopin Badges -->
+<div align="center">
+  <a href="https://holopin.io/@abhinavgautam08" target="_blank">
+    <img src="https://holopin.me/abhinavgautam08" alt="Holopin Badges" />
+  </a>
+</div>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Build Something Amazing Together!
 
@@ -175,7 +214,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 - 💬 **Discuss:** Open to interesting conversations about tech, innovation, and the future
 - 🚀 **Collaborate:** Always excited about new projects and partnerships  
 - 📧 **Connect:** Drop me a message, let's create something extraordinary
-
 
 ---
 
@@ -190,12 +228,5 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <div align="center">
   <b>⚡ Coded with passion by <a href="https://github.com/abhinavgautam08" target="_blank" style="text-decoration: none; color: inherit;">Abhinav Adarsh</a>
-  </b>🚀<br/></div>
-<!-- Hidden Message -->
-<!-- 
-Thanks for checking out my profile! 
-If you're reading this, you're probably a fellow developer who appreciates good code.
-Let's connect and build something amazing together!
-
--->
-
+  </b>🚀<br/>
+</div>

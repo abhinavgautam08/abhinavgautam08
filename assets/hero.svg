@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" font-family="'JetBrains Mono','Courier New',monospace">
+  <rect width="1000" height="260" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- breadcrumb -->
+  <text x="32" y="40" font-size="13" letter-spacing="2" fill="#8b949e">ABHINAV ADARSH / FULL STACK ENGINEER</text>
+  <line x1="32" y1="58" x2="968" y2="58" stroke="#21262d" stroke-width="1"/>
+
+  <!-- headline -->
+  <text x="32" y="130" font-size="46" font-style="italic" font-weight="700" fill="#f0f6fc">clean code, real products.</text>
+
+  <!-- subheadline -->
+  <text x="32" y="168" font-size="16" fill="#8b949e" letter-spacing="0.5">full stack development, open source, and details that hold up under load.</text>
+
+  <line x1="32" y1="200" x2="968" y2="200" stroke="#21262d" stroke-width="1"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" font-family="'JetBrains Mono','Courier New',monospace">
+  <rect x="1" y="1" width="398" height="118" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- badge -->
+  <rect x="24" y="30" width="46" height="46" rx="10" fill="#1f6feb"/>
+  <text x="47" y="61" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" font-family="Arial, sans-serif">G</text>
+
+  <!-- label + value -->
+  <text x="86" y="46" font-size="12" letter-spacing="2" fill="#8b949e">GOOGLE DEV</text>
+  <text x="86" y="70" font-size="18" font-weight="600" fill="#f0f6fc">g.dev/abhinavgautam08</text>
+
+  <!-- arrow -->
+  <g transform="translate(354,24)" stroke="#8b949e" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="0" y1="14" x2="14" y2="0"/>
+    <polyline points="4,0 14,0 14,10"/>
+  </g>
+</svg>
