@@ -27,8 +27,7 @@
   <img src="./assets/now.svg" width="100%" alt="Now: building full stack projects, contributing to open source, and finishing my degree" />
 </p>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ### Weekly Coding Activity (WakaTime)
 
@@ -47,8 +46,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 **Fun fact:** "I love exploring new tech trends!"
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ## Technology Arsenal
 
@@ -66,17 +64,13 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## Analytics & Activity Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavgautam08&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 </p>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ## What I'm Currently Crafting
 
@@ -98,7 +92,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 - Performance optimization techniques
 
 <br clear="right"/>
-
+<br/>
 
 ## Achievements & Milestones
 
@@ -116,8 +110,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
   </a>
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ## Let's Build Something Amazing Together!
 
