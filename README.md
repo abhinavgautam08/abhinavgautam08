@@ -97,27 +97,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-### Full Tech Stack
-
-**Frontend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
-</div>
-
-<br/>
-
-**Backend & Database**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgresql,mysql,mongodb,googlecloud&theme=dark" />
-</div>
-
-<br/>
-
-**DevOps & Tools**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,vscode,postman,figma&theme=dark" />
-</div>
-
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
