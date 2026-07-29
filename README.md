@@ -93,12 +93,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-<!-- Footer Design -->
-<p align="center">🪪 Verified Identity: 
-  <strong><a href="https://www.google.com/search?q=abhinavgautam08" target="_blank" style="text-decoration: none; color: inherit;">abhinavgautam08</a>
-  </strong> • Everywhere on the web 🌍</p>
-
 <div align="center">
-  <b>⚡ Coded with passion by <a href="https://github.com/abhinavgautam08" target="_blank" style="text-decoration: none; color: inherit;">Abhinav Adarsh</a>
-  </b>🚀<br/>
+  <b>Coded with passion by <a href="https://github.com/abhinavgautam08" target="_blank" style="text-decoration: none; color: inherit;">Abhinav Adarsh</a></b><br/>
 </div>
