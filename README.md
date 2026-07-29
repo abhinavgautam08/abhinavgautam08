@@ -30,7 +30,7 @@
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 Weekly Coding Activity (WakaTime)
+### Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
 
@@ -50,9 +50,9 @@ Other        32 mins               █░░░░░░░░░░░░░░
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
-<h3 align="center">Working Set</h3>
+<h3 align="center">working set</h3>
 
 <p align="center">
   <img src="./assets/typescript.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
@@ -69,7 +69,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Analytics & Activity Dashboard
+## Analytics & Activity Dashboard
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavgautam08&bg_color=0D1117&color=2F81F7&line=2EA043&point=2EA043&area=true&hide_border=false&border_color=21262d" alt="GitHub contribution graph" width="100%" />
@@ -78,7 +78,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌟 What I'm Currently Crafting
+## What I'm Currently Crafting
 
 <div align="center">
   <img align="right" height="250" src="https://i.postimg.cc/SKTNNq7T/goku.png" />
@@ -99,7 +99,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br clear="right"/>
 
-## 🎯 My Coding Philosophy
+## My Coding Philosophy
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Abhinav%20Adarsh" />
@@ -107,7 +107,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 ---
 
-## 🏆 Achievements & Milestones
+## Achievements & Milestones
 
 <!-- LeetCode Badges -->
 <div align="center">
@@ -126,7 +126,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Build Something Amazing Together!
+## Let's Build Something Amazing Together!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
