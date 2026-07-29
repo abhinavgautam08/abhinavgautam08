@@ -15,16 +15,13 @@
   <a href="https://community.aws/@abhinavgautam08" target="_blank"><img src="./assets/link-aws.svg" width="48.5%" alt="AWS Community — @abhinavgautam08" /></a>
 </p>
 
-<!-- Profile Views Badge -->
+<!-- Now Status Card with Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="./assets/now.svg" width="100%" alt="Now: building full stack projects, contributing to open source, profile views, and finishing my degree" />
 </p>
 
-<br/>
-
-<!-- Now Status Card -->
 <p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Now: building full stack projects, contributing to open source, and finishing my degree" />
+  <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 <br/>

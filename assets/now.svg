@@ -1,16 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" font-family="'JetBrains Mono','Courier New',monospace">
   <rect width="1000" height="90" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
 
-  <text x="32" y="34" font-size="12" letter-spacing="2" fill="#8b949e">BUILDING</text>
-  <text x="32" y="60" font-size="17" font-weight="600" fill="#f0f6fc">full stack projects</text>
+  <!-- Column 1: Building -->
+  <text x="24" y="34" font-size="11" letter-spacing="2" fill="#8b949e">BUILDING</text>
+  <text x="24" y="60" font-size="15" font-weight="600" fill="#f0f6fc">full stack projects</text>
 
-  <line x1="333" y1="20" x2="333" y2="70" stroke="#21262d" stroke-width="1"/>
+  <line x1="250" y1="20" x2="250" y2="70" stroke="#21262d" stroke-width="1"/>
 
-  <text x="365" y="34" font-size="12" letter-spacing="2" fill="#8b949e">CONTRIBUTING</text>
-  <text x="365" y="60" font-size="17" font-weight="600" fill="#f0f6fc">open source</text>
+  <!-- Column 2: Contributing -->
+  <text x="274" y="34" font-size="11" letter-spacing="2" fill="#8b949e">CONTRIBUTING</text>
+  <text x="274" y="60" font-size="15" font-weight="600" fill="#f0f6fc">open source</text>
 
-  <line x1="666" y1="20" x2="666" y2="70" stroke="#21262d" stroke-width="1"/>
+  <line x1="500" y1="20" x2="500" y2="70" stroke="#21262d" stroke-width="1"/>
 
-  <text x="698" y="34" font-size="12" letter-spacing="2" fill="#8b949e">FINISHING</text>
-  <text x="698" y="60" font-size="17" font-weight="600" fill="#f0f6fc">my degree</text>
+  <!-- Column 3: Profile Views -->
+  <text x="524" y="34" font-size="11" letter-spacing="2" fill="#8b949e">PROFILE VIEWS</text>
+  <text x="524" y="60" font-size="15" font-weight="600" fill="#0A66C2">Live Tracked</text>
+
+  <line x1="750" y1="20" x2="750" y2="70" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Column 4: Finishing -->
+  <text x="774" y="34" font-size="11" letter-spacing="2" fill="#8b949e">FINISHING</text>
+  <text x="774" y="60" font-size="15" font-weight="600" fill="#f0f6fc">my degree</text>
 </svg>
