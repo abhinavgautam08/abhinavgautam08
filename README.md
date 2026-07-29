@@ -70,6 +70,10 @@ Other        32 mins               █░░░░░░░░░░░░░░
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavgautam08&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavgautam08&theme=github_dark" alt="Productive Time" width="100%" />
+</p>
+
 <br/>
 
 ## What I'm Currently Crafting
@@ -124,13 +128,9 @@ Other        32 mins               █░░░░░░░░░░░░░░
 - 🚀 **Collaborate:** Always excited about new projects and partnerships  
 - 📧 **Connect:** Drop me a message, let's create something extraordinary
 
----
+<br/>
 
 <!-- Footer Design -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 <p align="center">🪪 Verified Identity: 
   <strong><a href="https://www.google.com/search?q=abhinavgautam08" target="_blank" style="text-decoration: none; color: inherit;">abhinavgautam08</a>
   </strong> • Everywhere on the web 🌍</p>
