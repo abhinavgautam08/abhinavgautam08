@@ -93,20 +93,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-## Let's Build Something Amazing Together!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-**Ready to collaborate?** Let's turn ideas into reality! 
-
-- 💬 **Discuss:** Open to interesting conversations about tech, innovation, and the future
-- 🚀 **Collaborate:** Always excited about new projects and partnerships  
-- 📧 **Connect:** Drop me a message, let's create something extraordinary
-
-<br/>
-
 <!-- Footer Design -->
 <p align="center">🪪 Verified Identity: 
   <strong><a href="https://www.google.com/search?q=abhinavgautam08" target="_blank" style="text-decoration: none; color: inherit;">abhinavgautam08</a>
