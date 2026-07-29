@@ -72,7 +72,7 @@ Other        32 mins               █░░░░░░░░░░░░░░
 ## Analytics & Activity Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavgautam08&bg_color=0D1117&color=2F81F7&line=2EA043&point=2EA043&area=true&hide_border=false&border_color=21262d" alt="GitHub contribution graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavgautam08&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 </p>
 
 <!-- Animated Separator -->
