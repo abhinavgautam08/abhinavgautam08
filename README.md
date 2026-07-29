@@ -102,6 +102,13 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 ## 📈 Analytics & Activity Dashboard
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavgautam08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgautam08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" width="100%" />
 </p>
