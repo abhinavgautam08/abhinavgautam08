@@ -66,6 +66,7 @@ console.log("Welcome to my world of endless possibilities!");
 ### 📊 Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 21 July 2026 - To: 28 July 2026
 
@@ -74,6 +75,7 @@ JavaScript   4 hrs 21 mins         ████████░░░░░░░
 Markdown     3 hrs 7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
 Other        32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
+
 <!--END_SECTION:waka-->
 
 **Fun fact:** "I love exploring new tech trends!"
