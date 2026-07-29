@@ -1,14 +1,7 @@
-<!-- Modern Dark Redesign Header -->
+<!-- Modern Dark Header -->
 <p align="center">
   <img src="./assets/hero.svg" alt="Abhinav Adarsh — clean code, real products." width="100%" />
 </p>
-
-<!-- Profile Typing SVG Sub-header -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 10px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhinav+Adarsh+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%9A%80;Building+Innovative+Solutions;Let's+Code+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
-<br/>
 
 <!-- Sleek Social Link Cards -->
 <p align="center">
@@ -17,16 +10,13 @@
   <a href="https://g.dev/abhinavgautam08" target="_blank"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Google Dev — g.dev/abhinavgautam08" /></a>
 </p>
 
-<!-- Additional Social & Identity Badges -->
+<!-- Social & Identity Badges -->
 <div align="center">
   <a href="https://www.instagram.com/abhinavgautam08" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
   <a href="https://community.aws/@abhinavgautam08" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="https://g.dev/abhinavgautam08" target="_blank">
-    <img src="https://img.shields.io/badge/Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=Profile%20Views&color=0FFFFF&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -91,7 +81,9 @@ Other        32 mins               █░░░░░░░░░░░░░░
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Working Set & Technology Arsenal
+## 🛠️ Technology Arsenal
+
+<h3 align="center">Working Set</h3>
 
 <p align="center">
   <img src="./assets/typescript.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
@@ -105,18 +97,24 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-### Frontend
-<div align="center">
+### Full Tech Stack
+
+**Frontend**
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
 </div>
 
-### Backend
-<div align="center">
+<br/>
+
+**Backend & Database**
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgresql,mysql,mongodb,googlecloud&theme=dark" />
 </div>
 
-### DevOps & Tools 
-<div align="center">
+<br/>
+
+**DevOps & Tools**
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,aws,linux,vscode,postman,figma&theme=dark" />
 </div>
 
