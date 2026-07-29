@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" font-family="'JetBrains Mono','Courier New',monospace">
+  <rect x="1" y="1" width="398" height="118" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- badge: simple cloud glyph -->
+  <rect x="24" y="30" width="46" height="46" rx="10" fill="#161b22" stroke="#FF9900" stroke-width="1.5"/>
+  <path d="M35 58c-3 0-5.5-2.5-5.5-5.5 0-2.8 2.1-5.1 4.8-5.4.6-3.6 3.7-6.3 7.5-6.3 3.4 0 6.3 2.2 7.3 5.2 2.9.3 5.1 2.8 5.1 5.8 0 3.2-2.6 5.8-5.8 5.8H35z"
+        fill="#FF9900"/>
+
+  <!-- label + value -->
+  <text x="86" y="46" font-size="12" letter-spacing="2" fill="#8b949e">AWS COMMUNITY</text>
+  <text x="86" y="70" font-size="18" font-weight="600" fill="#f0f6fc">@abhinavgautam08</text>
+
+  <!-- arrow -->
+  <g transform="translate(354,24)" stroke="#8b949e" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="0" y1="14" x2="14" y2="0"/>
+    <polyline points="4,0 14,0 14,10"/>
+  </g>
+</svg>

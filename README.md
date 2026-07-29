@@ -10,16 +10,15 @@
   <a href="https://g.dev/abhinavgautam08" target="_blank"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Google Dev — g.dev/abhinavgautam08" /></a>
 </p>
 
-<!-- Social & Identity Badges -->
-<div align="center">
-  <a href="https://www.instagram.com/abhinavgautam08" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-  </a>
-  <a href="https://community.aws/@abhinavgautam08" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://www.instagram.com/abhinavgautam08" target="_blank"><img src="./assets/link-instagram.svg" width="48.5%" alt="Instagram — @abhinavgautam08" /></a>&nbsp;
+  <a href="https://community.aws/@abhinavgautam08" target="_blank"><img src="./assets/link-aws.svg" width="48.5%" alt="AWS Community — @abhinavgautam08" /></a>
+</p>
+
+<!-- Profile Views Badge -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-</div>
+</p>
 
 <br/>
 
