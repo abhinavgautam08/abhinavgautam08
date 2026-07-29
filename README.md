@@ -30,36 +30,6 @@
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-</div>
-
-```javascript
-const abhinavgautam08 = {
-    name: "Abhinav Adarsh",
-    location: "India 🇮🇳",
-    role: "Full Stack Engineer",
-    passions: ["Clean Code", "Innovation", "Problem Solving"],
-    currentFocus: "Building scalable web applications & open source",
-    lifePhilosophy: "Code with purpose, learn with passion",
-    superpower: "Turning coffee into code ☕ → 💻",
-    status: "Always ready for the next challenge! 🎯",
-    
-    // 🔗 Global Dev Identity
-    handle: "abhinavgautam08",
-    everywhere: ["GitHub", "Twitter", "LinkedIn", "Medium", "Discord", "Google Dev", "AWS Community"],
-    verified: true, // Official dev alias across the web 🌍
-};
-
-console.log("Welcome to my world of endless possibilities!");
-```
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/abhinavgautam08.png" alt="TryHackMe Badge"/>
-</div>
-
-<br clear="right"/>
-
 ### 📊 Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
