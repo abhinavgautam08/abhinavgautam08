@@ -71,11 +71,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavgautam08&theme=chartreuse_dark&animation=sequence&duration=2&title_color=ffffff&bg_color=000000" alt="Repos Per Language" width="49%" />&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavgautam08&theme=chartreuse_dark&animation=sequence&duration=2&title_color=ffffff&bg_color=000000" alt="Most Commit Language" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavgautam08&theme=chartreuse_dark&animation=sequence&duration=2&title_color=ffffff&bg_color=000000" alt="GitHub Stats" width="49%" />&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavgautam08&theme=chartreuse_dark&animation=sequence&duration=2&utcOffset=0&title_color=ffffff&bg_color=000000" alt="Productive Time" width="49%" />
 </p>
