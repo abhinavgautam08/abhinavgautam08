@@ -67,11 +67,8 @@ Other        32 mins               █░░░░░░░░░░░░░░
 ## Analytics & Activity Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavgautam08&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavgautam08&theme=github_dark" alt="Productive Time" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavgautam08&theme=github_dark&bg_color=00000000" alt="GitHub Profile Summary" width="49%" />&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavgautam08&theme=github_dark&bg_color=00000000" alt="Productive Time" width="49%" />
 </p>
 
 <br/>
