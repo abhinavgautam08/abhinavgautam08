@@ -18,7 +18,7 @@
   <a href="https://community.aws/@abhinavgautam08" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=Profile%20Views&color=0FFFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </div>
 
 <br/>
