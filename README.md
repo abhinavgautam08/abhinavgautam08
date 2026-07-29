@@ -48,8 +48,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-## Technology Arsenal
-
 <h3 align="center">working set</h3>
 
 <p align="center">
