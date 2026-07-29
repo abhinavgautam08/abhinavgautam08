@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" font-family="'JetBrains Mono','Courier New',monospace">
   <rect width="1000" height="260" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
 
-  <!-- breadcrumb -->
-  <text x="32" y="40" font-size="13" letter-spacing="2" fill="#8b949e">ABHINAV ADARSH / FULL STACK ENGINEER</text>
+  <!-- breadcrumb with ASCII Code -->
+  <text x="32" y="40" font-size="12" letter-spacing="2" fill="#8b949e">ABHINAV ADARSH // ASCII: [65 98 104 105 110 97 118 32 65 100 97 114 115 104] // FULL STACK ENGINEER</text>
   <line x1="32" y1="58" x2="968" y2="58" stroke="#21262d" stroke-width="1"/>
 
   <!-- headline -->
