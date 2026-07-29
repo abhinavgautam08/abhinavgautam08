@@ -71,39 +71,9 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 ## 📈 Analytics & Activity Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavgautam08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgautam08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" width="100%" />
 </p>
-
-![LeetCode Stats](https://leetcode-stats-fast.vercel.app/?username=abhinavgautam08&site=us&theme=transparent&ext=heatmap&width=1200)
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavgautam08&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-### 🐍 Contribution Animations
-
-<!-- GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/snake.svg" alt="Snake animation" width="100%" />
-
-<br/>
-
-<!-- Github Contribution Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg">
-  <img alt="pacman" src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg" width="100%">
-</picture>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
