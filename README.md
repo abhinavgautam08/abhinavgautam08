@@ -99,13 +99,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br clear="right"/>
 
-## My Coding Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Abhinav%20Adarsh" />
-</div>
-
----
 
 ## Achievements & Milestones
 
