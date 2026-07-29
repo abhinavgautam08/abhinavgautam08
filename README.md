@@ -77,28 +77,6 @@ Other        32 mins               █░░░░░░░░░░░░░░
 
 <br/>
 
-## What I'm Currently Crafting
-
-<div align="center">
-  <img align="right" height="250" src="https://i.postimg.cc/SKTNNq7T/goku.png" />
-</div>
-
-🔥 **Current Adventures:**
-- 🤖 Building AI-powered web applications
-- 🚀 Exploring Next.js 15 and React Server Components  
-- 📱 Creating responsive, user-centric interfaces
-- 🔧 Automating workflows with Python scripts
-- 🌐 Contributing to open-source projects
-
-💡 **Learning Journey:**
-- Advanced TypeScript patterns
-- Microservices architecture
-- Cloud-native development
-- Performance optimization techniques
-
-<br clear="right"/>
-<br/>
-
 ## Achievements & Milestones
 
 <!-- LeetCode Badges -->
