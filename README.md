@@ -20,10 +20,6 @@
   <img src="./assets/now.svg" width="100%" alt="Now: building full stack projects, contributing to open source, profile views, and finishing my degree" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavgautam08&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-</p>
-
 <br/>
 
 ### Weekly Coding Activity (WakaTime)
