@@ -1,5 +1,9 @@
 <!-- Modern Dark Header -->
 <p align="center">
+  <img src="https://gh.crafter.run/abhinavgautam08?theme=dark&cols=80" alt="Abhinav Adarsh — clean code, real products." width="100%" />
+</p>
+<!-- Modern Dark Header -->
+<p align="center">
   <img src="./assets/hero.svg" alt="Abhinav Adarsh — clean code, real products." width="100%" />
 </p>
 
