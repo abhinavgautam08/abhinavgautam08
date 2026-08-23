@@ -31,18 +31,18 @@
 <h3 align="center">projects</h3>
 
 <p align="center">
-  <a href="https://github.com/abhinavgautam08/webtools-cli" target="_blank"><img src="./assets/project-1.svg" width="48.5%" alt="WebTools CLI" /></a>&nbsp;
-  <a href="https://github.com/abhinavgautam08/notes" target="_blank"><img src="./assets/project-2.svg" width="48.5%" alt="Notes." /></a>
+  <a href="https://webtoolscli.pages.dev/" target="_blank"><img src="./assets/project-1.svg" width="48.5%" alt="WebTools CLI" /></a>&nbsp;
+  <a href="https://notes-app.puter.site/" target="_blank"><img src="./assets/project-2.svg" width="48.5%" alt="Notes." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinavgautam08/face-swapper" target="_blank"><img src="./assets/project-3.svg" width="48.5%" alt="Face Swapper" /></a>&nbsp;
-  <a href="https://github.com/abhinavgautam08/rmbg-app" target="_blank"><img src="./assets/project-4.svg" width="48.5%" alt="RMBG App" /></a>
+  <a href="https://abhinavgautam08-faceswapper.streamlit.app/" target="_blank"><img src="./assets/project-3.svg" width="48.5%" alt="Face Swapper" /></a>&nbsp;
+  <a href="https://abhinavgautam08-rmbg.streamlit.app/" target="_blank"><img src="./assets/project-4.svg" width="48.5%" alt="RMBG App" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinavgautam08/cryptofolio" target="_blank"><img src="./assets/project-5.svg" width="48.5%" alt="Cryptofolio" /></a>&nbsp;
-  <a href="https://github.com/abhinavgautam08/strlink" target="_blank"><img src="./assets/project-6.svg" width="48.5%" alt="Strlink" /></a>
+  <a href="https://abhinavgautam08-cryptofolio.streamlit.app/" target="_blank"><img src="./assets/project-5.svg" width="48.5%" alt="Cryptofolio" /></a>&nbsp;
+  <a href="https://strlink.rf.gd/" target="_blank"><img src="./assets/project-6.svg" width="48.5%" alt="Strlink" /></a>
 </p>
 
 <br/>
