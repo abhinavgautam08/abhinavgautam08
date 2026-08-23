@@ -1,7 +1,8 @@
-<!-- Modern Dark Header -->
+<!-- Dynamic Typewriter Banner -->
 <p align="center">
   <img src="https://gh.crafter.run/abhinavgautam08?theme=dark&cols=80" alt="Abhinav Adarsh — clean code, real products." width="100%" />
 </p>
+
 <!-- Modern Dark Header -->
 <p align="center">
   <img src="./assets/hero.svg" alt="Abhinav Adarsh — clean code, real products." width="100%" />
@@ -26,6 +27,38 @@
 
 <br/>
 
+<!-- Featured Projects -->
+<h3 align="center">projects</h3>
+
+<p align="center">
+  <a href="https://github.com/abhinavgautam08/webtools-cli" target="_blank"><img src="./assets/project-1.svg" width="48.5%" alt="WebTools CLI" /></a>&nbsp;
+  <a href="https://github.com/abhinavgautam08/notes" target="_blank"><img src="./assets/project-2.svg" width="48.5%" alt="Notes." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhinavgautam08/face-swapper" target="_blank"><img src="./assets/project-3.svg" width="48.5%" alt="Face Swapper" /></a>&nbsp;
+  <a href="https://github.com/abhinavgautam08/rmbg-app" target="_blank"><img src="./assets/project-4.svg" width="48.5%" alt="RMBG App" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhinavgautam08/cryptofolio" target="_blank"><img src="./assets/project-5.svg" width="48.5%" alt="Cryptofolio" /></a>&nbsp;
+  <a href="https://github.com/abhinavgautam08/strlink" target="_blank"><img src="./assets/project-6.svg" width="48.5%" alt="Strlink" /></a>
+</p>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/abhinavgautam08/abhinavgautam08/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Activity" width="100%" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- Weekly Coding Activity -->
 ### Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
@@ -42,6 +75,7 @@ No activity tracked
 
 <br/>
 
+<!-- Working Set -->
 <h3 align="center">working set</h3>
 
 <p align="center">
@@ -56,6 +90,7 @@ No activity tracked
 
 <br/>
 
+<!-- Analytics & Activity Dashboard (Previous Version) -->
 ## Analytics & Activity Dashboard
 
 <p align="center">
@@ -66,6 +101,16 @@ No activity tracked
 
 <br/>
 
+<!-- LeetCode Stats -->
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-fast.vercel.app/?username=abhinavgautam08&theme=dark&border_radius=10&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</p>
+
+<br/>
+
+<!-- Achievements & Milestones -->
 ## Achievements & Milestones
 
 <!-- LeetCode Badges -->
