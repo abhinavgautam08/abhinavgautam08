@@ -64,10 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-Bash    5 mins                ████████████████████████▒   97.26 %
-Other   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TypeScript   3 hrs 47 mins         ████████▓░░░░░░░░░░░░░░░░   34.54 %
+JavaScript   2 hrs 17 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+JSON         1 hr 21 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+HTML         1 hr 7 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+CSS          39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
